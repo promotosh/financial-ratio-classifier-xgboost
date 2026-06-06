@@ -1,9 +1,6 @@
 # 📊 Measuring Firm Performance Using Financial Ratios: An XGBoost Approach
 ### A Comparative Study of U.S. and Chinese Technology Firms
 
-> **Course:** FIE453 — Big Data with Applications to Finance | NHH Norwegian School of Economics  
-> **Author:** Promotosh Barua  
-> **Date:** December 2022
 
 ---
 
